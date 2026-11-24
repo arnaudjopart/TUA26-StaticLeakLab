@@ -8,6 +8,8 @@ static patterns that break when that happens, so you can:
 2. **Detect** them with the Auditor,
 3. **Fix** them with the new reset attributes, and check that the dashboard goes back to normal.
 
+- Repository: <https://github.com/arnaudjopart/TUA26-StaticLeakLab>
+  (`git clone https://github.com/arnaudjopart/TUA26-StaticLeakLab.git`)
 - Editor: `6000.6.8f1` (URP). The scripts use no version-specific API, so they should run as-is in a 6.8 / CoreCLR build.
 - Scene: `Assets/_Project/Scenes/StaticLeakDemo.unity` (the only scene in Build Profiles).
 - **Enter Play Mode Options are already set to *Reload Scene only* (Domain Reload disabled)**, which is what
