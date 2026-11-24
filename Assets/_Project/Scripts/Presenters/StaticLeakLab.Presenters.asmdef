@@ -1,0 +1,14 @@
+{
+    "name": "StaticLeakLab.Presenters",
+    "rootNamespace": "StaticLeakLab.Presenters",
+    "references": ["StaticLeakLab.Models", "StaticLeakLab.Views", "StaticLeakLab.Systems"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

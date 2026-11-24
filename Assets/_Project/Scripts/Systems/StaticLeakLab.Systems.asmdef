@@ -1,0 +1,14 @@
+{
+    "name": "StaticLeakLab.Systems",
+    "rootNamespace": "StaticLeakLab.Systems",
+    "references": ["StaticLeakLab.Models"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
